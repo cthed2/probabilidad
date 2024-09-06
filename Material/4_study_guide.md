@@ -1,0 +1,21 @@
+Una guía sobre cómo utilizar la gran cantidad de material disponible
+
+Esta clase te proporciona una gran cantidad de material, quizás más del que puedas digerir por completo. Esta "guía" ofrece algunos consejos sobre cómo utilizar este material.
+
+Comienza con la vista general de una unidad, cuando esté disponible. Esto te ayudará a obtener una visión general de lo que sucederá a continuación. De manera similar, al final de una unidad, mira el resumen de la unidad para consolidar tu comprensión de la "visión general" y de la relación entre los diferentes conceptos.
+
+Mira los videos de las lecciones. Puede que desees descargar las diapositivas W(limpias o anotadas) al inicio de cada lección, especialmente si no puedes recibir video de alta calidad en streaming. Algunos de los clips de las lecciones avanzan a una velocidad moderada. Siempre que te sientas cómodo, puedes acelerar el video y reproducirlo más rápido, a 1.5x.
+
+¡Haz los ejercicios! Los ejercicios que siguen a la mayoría de los clips de las lecciones son una parte fundamental de esta clase. Algunos de los ejercicios son adaptaciones simples de lo que acabas de escuchar. Otros ejercicios requerirán más reflexión. Haz tu mejor esfuerzo para resolverlos justo después de cada clip — no pospongas esto para más tarde — para que puedas consolidar tu comprensión. Después de tu intento, ya sea exitoso o no, asegúrate de revisar las soluciones, las cuales podrás ver tan pronto como envíes tus propias respuestas.
+
+Problemas resueltos y materiales adicionales. En la mayoría de las unidades, te proporcionamos muchos problemas resueltos por miembros de nuestro equipo. Proporcionamos tanto clips de video como soluciones escritas. Dependiendo de tu estilo de aprendizaje, puedes elegir en cuál formato enfocarte. Pero en cualquier caso, es importante que te expongas a un gran número de problemas.
+
+El libro de texto. Si tienes acceso al libro de texto, puedes encontrar declaraciones más precisas de lo que se discutió en la lección, datos adicionales, así como varios ejemplos. Aunque se recomienda el libro de texto, los materiales proporcionados por este curso son autosuficientes. Consulta la pestaña "Información del libro de texto" en la Unidad 0 para más detalles.
+
+Conjuntos de problemas. Solo se puede dominar el tema resolviendo problemas – un gran número de ellos. Algunos de los problemas serán aplicaciones directas de lo que has aprendido. Algunos serán más desafiantes. No te desesperes si no puedes resolver un problema – nadie espera que todo salga perfecto. Sin embargo, una vez que se publiquen las soluciones de los conjuntos de problemas (lo cual ocurrirá en la fecha de entrega de los conjuntos de problemas), asegúrate de revisar las soluciones de aquellos problemas que no pudiste resolver correctamente.
+
+Exámenes. Los exámenes parciales están diseñados de tal forma que, en una versión presencial, los estudiantes tendrían dos horas. El examen final está diseñado para que, en una versión presencial, los estudiantes tendrían tres horas. No deberías esperar pasar mucho más tiempo que esta cantidad en ellos. En este sentido, las semanas que tienen exámenes (y no conjuntos de problemas) no exigirán más tiempo de tu parte. El nivel de dificultad de las preguntas de examen estará entre los ejercicios de las lecciones y los problemas de tareas.
+
+Gestión del tiempo. La clase correspondiente en el campus está diseñada para que los estudiantes con los prerrequisitos adecuados dediquen alrededor de 12 horas cada semana a lecciones, recitaciones, lecturas y tareas. Deberías esperar un esfuerzo comparable, o más si necesitas ponerte al día con material de fondo. En una semana típica, habrá 2 horas de clips de lección, pero podría tomarte 4-5 horas cuando sumes el tiempo dedicado a los ejercicios. Planea pasar otras 3-4 horas viendo problemas resueltos y materiales adicionales, y en las lecturas del libro de texto. Finalmente, espera dedicar unas 4 horas a los conjuntos de problemas semanales.
+
+Problemas de práctica adicionales. Para aquellos de ustedes que deseen profundizar aún más en el tema, pueden encontrar una buena colección de problemas al final de cada capítulo de la edición impresa del libro, cuyas soluciones están disponibles en línea.
